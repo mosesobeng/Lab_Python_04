@@ -1,0 +1,43 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Question 2
+The Initial Items in the store
+Carrots                           10.0
+Bananas                           5.5
+Bread                             1.0
+Strawberries                      32.6
+Apples                            7.3
+Champagne                         20.90
+
+The Final Items in the store
+Carrots                           10.0
+Bananas                           5.5
+Chicken                           6.5
+Bread                             1.0
+Strawberries                      63.43
+Apples                            7.3
+Champagne                         20.90
+
+
+
+Question 3
+The List for advertisement
+
+Come to shoprite! We always sell:
+Carrots     
+Bananas     
+Chicken     
+Bread       
+Strawberries
+Apples      
+Champagne   
+>>> ================================ RESTART ================================
+>>> 
+apples          --->a
+bananas         --->b
+champagne       --->c
+strawberies     --->s
+>>> 
